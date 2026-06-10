@@ -16,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aju390boy/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/aju390boy/Leetcode/tree/main/0027-remove-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/aju390boy/Leetcode/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
