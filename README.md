@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/aju390boy/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aju390boy/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Dynamic Programming
@@ -32,4 +33,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aju390boy/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
