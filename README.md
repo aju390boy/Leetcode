@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aju390boy/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aju390boy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aju390boy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -75,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/aju390boy/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 <!---LeetCode Topics End-->
