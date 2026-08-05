@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/aju390boy/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/aju390boy/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aju390boy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aju390boy/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/aju390boy/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aju390boy/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aju390boy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/aju390boy/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/aju390boy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
@@ -87,4 +89,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aju390boy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aju390boy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aju390boy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
