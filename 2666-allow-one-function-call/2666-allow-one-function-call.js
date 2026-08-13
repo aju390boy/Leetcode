@@ -12,7 +12,7 @@ function once(fn) {
       hasBeenCalled = true;
       return result;
     } else {
-      return undefined;
+      return undefined
     }
   };
 }
