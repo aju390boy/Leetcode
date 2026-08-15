@@ -33,7 +33,7 @@ class EventEmitter {
       results.push(listener(...args));
     }
 
-    return results;
+    return results
   }
 }
 
