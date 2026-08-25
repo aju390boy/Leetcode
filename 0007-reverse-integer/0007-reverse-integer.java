@@ -13,7 +13,7 @@ class Solution {
             }
             
             rev = rev * 10 + ld;  // Reverse mein digit ko add kiya
-            num = num / 10;  // Last digit hata diya, next iteration ke liye
+            num = num / 10; 
         }
         
         return (x < 0) ? (-rev) : rev; 
