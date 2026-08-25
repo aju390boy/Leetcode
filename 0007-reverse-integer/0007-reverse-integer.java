@@ -16,6 +16,6 @@ class Solution {
             num = num / 10;  // Last digit hata diya, next iteration ke liye
         }
         
-        return (x < 0) ? (-rev) : rev;  // Original number ke sign ke hisaab se result diya
+        return (x < 0) ? (-rev) : rev; 
     }
 }
