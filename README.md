@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/aju390boy/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/aju390boy/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aju390boy/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aju390boy/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
@@ -44,10 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/aju390boy/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/aju390boy/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/aju390boy/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/aju390boy/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
