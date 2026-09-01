@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/aju390boy/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aju390boy/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/aju390boy/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/aju390boy/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aju390boy/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aju390boy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/aju390boy/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aju390boy/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/aju390boy/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/aju390boy/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
