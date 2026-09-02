@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/aju390boy/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/aju390boy/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aju390boy/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aju390boy/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aju390boy/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aju390boy/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/aju390boy/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/aju390boy/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aju390boy/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0796-rotate-string](https://github.com/aju390boy/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aju390boy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/aju390boy/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
