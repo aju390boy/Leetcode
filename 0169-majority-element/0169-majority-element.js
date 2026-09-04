@@ -8,10 +8,10 @@ var majorityElement = function(nums) {
         return acc;
     },{});
     let mejority=Object.keys(result).reduce((acc,val)=>{
-        if(result[val]<result[acc]){
-            val=acc;
+        if(result[val]>result[acc]){
+            acc=val;
         }
-        return val;
+        return acc;
     })
     return Number(mejority);
     
