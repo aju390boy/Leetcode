@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/aju390boy/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aju390boy/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aju390boy/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/aju390boy/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/aju390boy/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aju390boy/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/aju390boy/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/aju390boy/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/aju390boy/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/aju390boy/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/aju390boy/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aju390boy/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
