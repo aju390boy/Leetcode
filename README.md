@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/aju390boy/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aju390boy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2222-number-of-ways-to-select-buildings](https://github.com/aju390boy/Leetcode/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+| [2325-decode-the-message](https://github.com/aju390boy/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aju390boy/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aju390boy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/aju390boy/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/aju390boy/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/aju390boy/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aju390boy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2325-decode-the-message](https://github.com/aju390boy/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aju390boy/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aju390boy/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/aju390boy/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
