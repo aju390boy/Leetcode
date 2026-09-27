@@ -17,5 +17,5 @@ var decodeMessage = function(key, message) {
     result += hash.get(chr) || ' '
   }
     
-  return result
+  return result;
 };
