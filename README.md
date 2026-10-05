@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aju390boy/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/aju390boy/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/aju390boy/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/aju390boy/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/aju390boy/Leetcode/tree/main/0290-word-pattern/) | Easy |
