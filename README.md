@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/aju390boy/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/aju390boy/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/aju390boy/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/aju390boy/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/aju390boy/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/aju390boy/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/aju390boy/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/aju390boy/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/aju390boy/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/aju390boy/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/aju390boy/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/aju390boy/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aju390boy/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aju390boy/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/aju390boy/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/aju390boy/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aju390boy/Leetcode/tree/main/0100-same-tree/) | Easy |
 ## Breadth-First Search
