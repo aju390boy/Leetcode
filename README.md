@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/aju390boy/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/aju390boy/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/aju390boy/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/aju390boy/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aju390boy/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0796-rotate-string](https://github.com/aju390boy/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aju390boy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/aju390boy/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/aju390boy/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/aju390boy/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aju390boy/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/aju390boy/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/aju390boy/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/aju390boy/Leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0389-find-the-difference](https://github.com/aju390boy/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aju390boy/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2325-decode-the-message](https://github.com/aju390boy/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aju390boy/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/aju390boy/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/aju390boy/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/aju390boy/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aju390boy/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/aju390boy/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/aju390boy/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
