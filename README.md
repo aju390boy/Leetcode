@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/aju390boy/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/aju390boy/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/aju390boy/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/aju390boy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/aju390boy/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/aju390boy/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/aju390boy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/aju390boy/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/aju390boy/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/aju390boy/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/aju390boy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/aju390boy/Leetcode/tree/main/0079-word-search/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aju390boy/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Prefix Sum
